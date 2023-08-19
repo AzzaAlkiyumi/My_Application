@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlartDialog</string>
+    <string name="daialog_message">welcome you</string>
+    <string name="dialog_title"> Alart Dialog</string>
+</resources>
